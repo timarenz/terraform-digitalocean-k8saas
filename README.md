@@ -1,4 +1,4 @@
-# terraform-do-k8saas
+# terraform-digitalocean-k8saas
 This Terraform module can be used to deploy a self-contained Kubernetes cluster based in Digital Ocean based on their managed Kubernetes offering.
 
 ## Input variables
